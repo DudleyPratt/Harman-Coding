@@ -45,7 +45,7 @@
 
 1. Install terraform - follow instructions here - https://www.terraform.io/
 2. Edit ~/.aws/credentials file and add key and secret to the [default] section
-3. Clone the repository and cd to <parent folder>/environments/development folder
+3. Clone the repository and cd to <parent folder>/harman-coding
 4. run terraform init - follow prompts
 5. run terraform plan - validate the output
 6. run terraform apply - to apply changes
